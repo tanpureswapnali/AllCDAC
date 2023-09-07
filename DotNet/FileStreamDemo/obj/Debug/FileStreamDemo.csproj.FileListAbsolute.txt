@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\bin\Debug\FileStreamDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\bin\Debug\FileStreamDemo.exe
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\bin\Debug\FileStreamDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\obj\Debug\FileStreamDemo.exe
+D:\DOTNETPRACTICAL\DAY1\FileStreamDemo\obj\Debug\FileStreamDemo.pdb

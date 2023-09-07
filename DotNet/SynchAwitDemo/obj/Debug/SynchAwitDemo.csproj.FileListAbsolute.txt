@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\obj\Debug\SynchAwitDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\obj\Debug\SynchAwitDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\obj\Debug\SynchAwitDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\bin\Debug\SynchAwitDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\bin\Debug\SynchAwitDemo.exe
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\bin\Debug\SynchAwitDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\obj\Debug\SynchAwitDemo.exe
+D:\DOTNETPRACTICAL\DAY1\SynchAwitDemo\obj\Debug\SynchAwitDemo.pdb

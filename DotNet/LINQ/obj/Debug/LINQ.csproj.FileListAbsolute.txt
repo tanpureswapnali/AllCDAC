@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\LINQ\bin\Debug\LINQ.exe.config
+D:\DOTNETPRACTICAL\DAY1\LINQ\bin\Debug\LINQ.exe
+D:\DOTNETPRACTICAL\DAY1\LINQ\bin\Debug\LINQ.pdb
+D:\DOTNETPRACTICAL\DAY1\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\LINQ\obj\Debug\LINQ.exe
+D:\DOTNETPRACTICAL\DAY1\LINQ\obj\Debug\LINQ.pdb

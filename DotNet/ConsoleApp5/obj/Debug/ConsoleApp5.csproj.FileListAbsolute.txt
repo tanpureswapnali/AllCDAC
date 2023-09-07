@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\DOTNETPRACTICAL\DAY1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

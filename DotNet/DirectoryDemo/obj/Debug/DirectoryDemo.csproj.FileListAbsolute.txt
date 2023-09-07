@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\bin\Debug\DirectoryDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\bin\Debug\DirectoryDemo.exe
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\bin\Debug\DirectoryDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\obj\Debug\DirectoryDemo.exe
+D:\DOTNETPRACTICAL\DAY1\DirectoryDemo\obj\Debug\DirectoryDemo.pdb

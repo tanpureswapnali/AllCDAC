@@ -1,0 +1,21 @@
+﻿@model LoginViewModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<form class="form-inline" method="post" asp-controller="Account" asp-action="login" >
+    <div class="form-group">
+        <label class="sr-only" asp-for="Email">Email address:</label>
+        <input type="text" class="form-control" asp-for="Email">
+    </div>
+    <div class="form-group">
+        <label class="sr-only" asp-for="Password">Password:</label>
+        <input type="password" class="form-control" asp-for="Password" />
+    </div>
+    <div class="checkbox">
+        <label><input type="checkbox"> Remember me</label>
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>

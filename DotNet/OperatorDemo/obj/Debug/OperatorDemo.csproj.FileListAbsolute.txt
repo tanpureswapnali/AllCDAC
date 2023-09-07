@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\bin\Debug\OperatorDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\bin\Debug\OperatorDemo.exe
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\bin\Debug\OperatorDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\obj\Debug\OperatorDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\obj\Debug\OperatorDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\obj\Debug\OperatorDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\obj\Debug\OperatorDemo.exe
+D:\DOTNETPRACTICAL\DAY1\OperatorDemo\obj\Debug\OperatorDemo.pdb

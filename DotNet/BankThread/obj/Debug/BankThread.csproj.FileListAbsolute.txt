@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\BankThread\bin\Debug\BankThread.exe.config
+D:\DOTNETPRACTICAL\DAY1\BankThread\bin\Debug\BankThread.exe
+D:\DOTNETPRACTICAL\DAY1\BankThread\bin\Debug\BankThread.pdb
+D:\DOTNETPRACTICAL\DAY1\BankThread\obj\Debug\BankThread.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\BankThread\obj\Debug\BankThread.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\BankThread\obj\Debug\BankThread.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\BankThread\obj\Debug\BankThread.exe
+D:\DOTNETPRACTICAL\DAY1\BankThread\obj\Debug\BankThread.pdb

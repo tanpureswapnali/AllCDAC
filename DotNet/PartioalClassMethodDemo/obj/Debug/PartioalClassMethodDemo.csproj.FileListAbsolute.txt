@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\bin\Debug\PartioalClassMethodDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\bin\Debug\PartioalClassMethodDemo.exe
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\bin\Debug\PartioalClassMethodDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\obj\Debug\PartioalClassMethodDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\obj\Debug\PartioalClassMethodDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\obj\Debug\PartioalClassMethodDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\obj\Debug\PartioalClassMethodDemo.exe
+D:\DOTNETPRACTICAL\DAY1\PartioalClassMethodDemo\obj\Debug\PartioalClassMethodDemo.pdb

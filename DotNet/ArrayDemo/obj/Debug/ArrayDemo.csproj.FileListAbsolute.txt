@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\bin\Debug\ArrayDemo.exe
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\bin\Debug\ArrayDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\obj\Debug\ArrayDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\obj\Debug\ArrayDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\obj\Debug\ArrayDemo.exe
+D:\DOTNETPRACTICAL\DAY1\ArrayDemo\obj\Debug\ArrayDemo.pdb

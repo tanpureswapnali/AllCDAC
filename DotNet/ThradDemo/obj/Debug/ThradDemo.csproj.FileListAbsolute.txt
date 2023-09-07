@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\bin\Debug\ThradDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\bin\Debug\ThradDemo.exe
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\bin\Debug\ThradDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\obj\Debug\ThradDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\obj\Debug\ThradDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\obj\Debug\ThradDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\obj\Debug\ThradDemo.exe
+D:\DOTNETPRACTICAL\DAY1\ThradDemo\obj\Debug\ThradDemo.pdb

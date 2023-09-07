@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\bin\Debug\InterfacePrac.exe.config
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\bin\Debug\InterfacePrac.exe
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\bin\Debug\InterfacePrac.pdb
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\obj\Debug\InterfacePrac.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\obj\Debug\InterfacePrac.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\obj\Debug\InterfacePrac.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\obj\Debug\InterfacePrac.exe
+D:\DOTNETPRACTICAL\DAY1\InterfacePrac\obj\Debug\InterfacePrac.pdb

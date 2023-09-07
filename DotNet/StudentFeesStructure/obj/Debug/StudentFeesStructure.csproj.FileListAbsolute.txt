@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\bin\Debug\StudentFeesStructure.exe.config
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\bin\Debug\StudentFeesStructure.exe
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\bin\Debug\StudentFeesStructure.pdb
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\obj\Debug\StudentFeesStructure.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\obj\Debug\StudentFeesStructure.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\obj\Debug\StudentFeesStructure.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\obj\Debug\StudentFeesStructure.exe
+D:\DOTNETPRACTICAL\DAY1\StudentFeesStructure\obj\Debug\StudentFeesStructure.pdb

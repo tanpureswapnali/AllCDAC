@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\bin\Debug\ThreadDemoQ.exe.config
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\bin\Debug\ThreadDemoQ.exe
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\bin\Debug\ThreadDemoQ.pdb
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\obj\Debug\ThreadDemoQ.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\obj\Debug\ThreadDemoQ.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\obj\Debug\ThreadDemoQ.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\obj\Debug\ThreadDemoQ.exe
+D:\DOTNETPRACTICAL\DAY1\ThreadDemoQ\obj\Debug\ThreadDemoQ.pdb

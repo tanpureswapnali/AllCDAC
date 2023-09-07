@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\bin\Debug\GenericDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\bin\Debug\GenericDemo.exe
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\bin\Debug\GenericDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\obj\Debug\GenericDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\obj\Debug\GenericDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\obj\Debug\GenericDemo.exe
+D:\DOTNETPRACTICAL\DAY1\GenericDemo\obj\Debug\GenericDemo.pdb

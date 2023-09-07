@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\bin\Debug\CalSalaryUsingTuple.exe.config
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\bin\Debug\CalSalaryUsingTuple.exe
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\bin\Debug\CalSalaryUsingTuple.pdb
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\obj\Debug\CalSalaryUsingTuple.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\obj\Debug\CalSalaryUsingTuple.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\obj\Debug\CalSalaryUsingTuple.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\obj\Debug\CalSalaryUsingTuple.exe
+D:\DOTNETPRACTICAL\DAY1\CalSalaryUsingTuple\obj\Debug\CalSalaryUsingTuple.pdb

@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\bin\Debug\CollectionDemo.exe
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\bin\Debug\CollectionDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\obj\Debug\CollectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\obj\Debug\CollectionDemo.exe
+D:\DOTNETPRACTICAL\DAY1\CollectionDemo\obj\Debug\CollectionDemo.pdb

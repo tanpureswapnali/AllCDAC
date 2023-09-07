@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\Session7\bin\Debug\Session7.exe.config
+D:\DOTNETPRACTICAL\DAY1\Session7\bin\Debug\Session7.exe
+D:\DOTNETPRACTICAL\DAY1\Session7\bin\Debug\Session7.pdb
+D:\DOTNETPRACTICAL\DAY1\Session7\obj\Debug\Session7.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\Session7\obj\Debug\Session7.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\Session7\obj\Debug\Session7.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\Session7\obj\Debug\Session7.exe
+D:\DOTNETPRACTICAL\DAY1\Session7\obj\Debug\Session7.pdb

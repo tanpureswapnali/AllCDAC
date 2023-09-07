@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\bin\Debug\SealdPraDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\bin\Debug\SealdPraDemo.exe
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\bin\Debug\SealdPraDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\obj\Debug\SealdPraDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\obj\Debug\SealdPraDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\obj\Debug\SealdPraDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\obj\Debug\SealdPraDemo.exe
+D:\DOTNETPRACTICAL\DAY1\SealdPraDemo\obj\Debug\SealdPraDemo.pdb

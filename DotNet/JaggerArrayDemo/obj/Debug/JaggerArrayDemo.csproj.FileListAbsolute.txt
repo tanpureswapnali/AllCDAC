@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\bin\Debug\JaggerArrayDemo.exe.config
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\bin\Debug\JaggerArrayDemo.exe
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\bin\Debug\JaggerArrayDemo.pdb
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\obj\Debug\JaggerArrayDemo.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\obj\Debug\JaggerArrayDemo.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\obj\Debug\JaggerArrayDemo.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\obj\Debug\JaggerArrayDemo.exe
+D:\DOTNETPRACTICAL\DAY1\JaggerArrayDemo\obj\Debug\JaggerArrayDemo.pdb

@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\bin\Debug\TupleClassDemo1.exe.config
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\bin\Debug\TupleClassDemo1.exe
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\bin\Debug\TupleClassDemo1.pdb
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\obj\Debug\TupleClassDemo1.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\obj\Debug\TupleClassDemo1.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\obj\Debug\TupleClassDemo1.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\obj\Debug\TupleClassDemo1.exe
+D:\DOTNETPRACTICAL\DAY1\TupleClassDemo1\obj\Debug\TupleClassDemo1.pdb

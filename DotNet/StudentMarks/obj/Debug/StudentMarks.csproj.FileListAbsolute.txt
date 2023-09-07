@@ -1,0 +1,8 @@
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\bin\Debug\StudentMarks.exe.config
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\bin\Debug\StudentMarks.exe
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\bin\Debug\StudentMarks.pdb
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\obj\Debug\StudentMarks.csproj.AssemblyReference.cache
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\obj\Debug\StudentMarks.csproj.SuggestedBindingRedirects.cache
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\obj\Debug\StudentMarks.exe
+D:\DOTNETPRACTICAL\DAY1\StudentMarks\obj\Debug\StudentMarks.pdb
