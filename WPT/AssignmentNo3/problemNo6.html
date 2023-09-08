@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <script type="text/javascript">
+        var movie = []
+        for(var i=0; i<2;i++){
+            
+            var n = prompt("Enter the  mvie name")
+            var price= prompt("Enter the price")
+            var s = prompt("Enter the seat")
+            var temp={
+
+                Name:n,
+                Price:price,
+                seat:s,
+                }
+                movie.push(temp)
+        }
+            var htmlstr = "<table border=1>"
+                for(var i=0; i<movie.length; i++){
+                    htmlstr = htmlstr+
+                    "<tr><td>"+movie[i].Name+"</tr></td>"+
+                    "<tr><td>"+movie[i].price+"</tr></td>"+
+                    "<tr><td>"+movie[i].seat+"</tr></td>"
+                }
+                htmlstr = htmlstr + "</table>"
+                document.write(htmlstr)
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

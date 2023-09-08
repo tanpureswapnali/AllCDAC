@@ -1,0 +1,85 @@
+<html>
+<head>
+	<title></title>
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+	<style type="text/css">
+		.block{
+			border: 1px solid black;
+			width : 200px;
+			height : 200px;
+			background-color: red;
+		}
+	</style>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#hide-btn").click(function(){
+				$(".block").hide(5000,"linear",function(){
+					$(".block").css({"background-color": "green"})
+				})
+			})
+
+			$("#show-btn").click(function(){
+				$(".block").show(5000,function(){
+					$(".block").css({"background-color": "red"})	
+				})
+			})
+			$("#slideup-btn").click(function(){
+				$(".block").slideUp(4000)
+			})
+			$("#slidedown-btn").click(function(){
+				$(".block").slideDown(6000,function(){
+					$(".block").css({"background-color": "yello"})		
+				})
+			})
+		})
+             
+                $(document).ready(function(){
+                                $("#fadeIn").click(function(){
+                                  
+                                      $(".block").fadeIn(1000, function(){
+                                        $(".block").css({"background-color":"cyan"})
+                                      });
+                                })
+            
+                    });
+                 $(document).ready(function(){   
+                $("#toggle").click(function(){
+                        $(".block").toggle(1000,function(){
+                            $(".block").css({"background-color":"blue"})
+                        })
+                   })
+                })
+                 
+               $(document).ready(function(){
+                $("#fadeOut").click(function(){
+                    $(".block").fadeOut(1000, function(){
+                        $(".block").css({"background-color":"pink"})
+                    
+                    });
+             })
+         }) 
+         $(document).ready(function(){
+                $("#fadetoggle").click(function(){
+                    $(".block").fadeToggle(1000, function(){
+                        $(".block").css({"background-color":"black"})
+                    
+                    });
+             })
+         }) 
+
+        
+	</script>
+</head>
+<body>
+	<div class="block">SWAP</div>
+	<br><br>
+	<button id="hide-btn">Hide</button>
+	<button id="show-btn">Show</button>
+	<button id="slideup-btn">slideup</button>
+	<button id="slidedown-btn">slidedown</button>
+    <button id="fadeIn">fadeIn</button>
+    <button id="fadeOut">fadeOut</button>
+    <button id="toggle">tog</button>
+    <button id="fadetoggle">fadeToggle</button>
+</body>
+</html>

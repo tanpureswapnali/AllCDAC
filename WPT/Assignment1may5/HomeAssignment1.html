@@ -1,0 +1,164 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <style>
+        .err{
+            color:crimson;
+        }
+    </style>
+
+<script type="text/javascript">
+    var movie2=[]
+    function save(){
+        var name = $("#name").val()  
+        var actor = $("#actor").val()
+        
+        $(document).ready(function(){
+            var movietype=[]
+            var movietype_dom_arr = $('input[name="movietype"]:checked').each (function(){
+            movietype._dom_arr.push($(this).val())
+        })
+        
+        })
+       
+			var time=$("#time").val() 
+            var date=$("#date").val()
+            
+			$(document).ready(function(){
+                var lang = $('input[name="lang"]:checked').val()
+
+            
+
+            });
+			
+            
+        movie2.push({
+            name:name,
+            actor:actor,
+            movietype:movietype,
+            time:time,
+            date:date,
+            lang:lang
+            
+            
+        })
+
+
+    }
+    function show(){
+        var htmlstr=" "
+        for(var i=0; i<movie2.length;i++){
+          
+            htmlstr= htmlstr+ `<tr>
+                                    <td>${movie2[i].name}</td>
+                                    <td>${movie2[i].actor}</td>
+                                    <td>${movie2[i].movietype}</td>
+                                    <td>${movie2[i].time}</td>
+                                    <td>${movie2[i].date}</td>
+                                    <td>${movie2[i].lang}</td>
+                                    
+                             </tr>`
+        }
+        $("#table-body").html(htmlstr)
+    }
+
+
+
+    
+    function validate_name(){
+        var name = $("#name").val()
+        if( name.length<5){
+            $("#name_err").html("Name must be more than 5 chracters")
+            return false
+		}else{
+				$("#name_err").html("")
+				return true
+			}
+     }
+     function validate_actor(){
+        var actor = $("#actor").val()
+        if(actor.length<3){
+            $("#actor_err").html("Name must be more than 3 charactors")
+            
+            return false
+		}else{
+				$("#actor_err").html("")
+				return true
+			}
+     }
+     
+     $(document).ready(function(){
+                $("save-btn").click(save)
+                $("show-btn").click(show)
+            })
+
+    
+
+</script> 
+</head> 
+<body class="bg-secondary">
+    <div class="container-fluid" >
+        <div class = "row justify-content-center align-items-center" style="height:100vh">
+            <div class="col-5 p-5 bg-white rounded"><h1 style="color:goldenrod">Movie Deatails  </h1>
+                 <div>
+                   Movie Name: <input type="text" id="name" onblur="validate_name()">
+                   <span class="err" id="name_err"></span>
+                 </div><br>
+                 <div>
+                    Movie Actor: <input type="text" id="actor" onblur="validate_actor()">
+                    <span class="err" id ="actor_err"></span>
+                  </div><br>
+                 <div class="mb-3">
+                        <label class="form-label me-3" id="element">Movie Type</label>
+                        <input type="checkbox" name="movietype" value="2D"> 2d
+                        <input type="checkbox" name="movietype" value="3D"> 3D
+                        <input type="checkbox" name="movietype" value="IMAX">IMAX
+                  </div><br>
+                  <div>
+                   Movie Time : <input type="datetime-local" id="time"><br>
+                  </div>
+                  <div>
+                    Movie realeas : <input type="date" id="date"><br>
+                   </div>
+                  <div class="mb-3">
+					<label class="form-label me-3">Language</label>
+					<input type="radio" name="lang" value="Marathi" > Marathi
+					<input type="radio" name="lang"  value="Hindi" > Hindi
+					<input type="radio" name="lang" value="English"> English
+				</div>
+    <br>
+    
+    <button class ="p-2 mb-3" id="save-btn "onclick="save()" style="margin-left: 150px;">save</button>
+    <button class ="p-2 mb-3"  id="show-btn" onclick="show()">show</button>
+            </div>
+            <div class="col-5" >
+                <table class ="table table-danger">
+                    <thead><tr>
+                        <th>Movie</th>
+                        <th>Movie-Actor</th>
+                        <th>Movie-Type</th>
+                        <th>Time</th>
+                        <th>Realeas-Date</th>
+                        <th>Language</th>
+                    </tr>
+                    </thead>
+                    <tbody id="table-body">
+            
+                    </tbody>
+            
+                </table>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

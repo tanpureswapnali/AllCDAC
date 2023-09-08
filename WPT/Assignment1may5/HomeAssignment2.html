@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PIZZA shop</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+		function validate_Name(){
+			var name = $("#name").val()
+			console.log(name)
+			if(name.length<5){
+				$("#name_err").html()
+			}else{
+				$("#name_err").html = ""
+			}
+		}var generateSauce =  () =>{
+			var supereme = $("#supereme").checked
+			var option = ["Cheese", "Corn","Tomato"]
+			var htmlStr = '<option value="none">Choose Sauce</option>'
+			for(var i = 0 ; i< option.length; i++){
+				if(supereme && option[i] == "Tomato"){
+					continue
+				}
+				htmlStr+=`<option value="${option[i]}">${option[i]}</option>`
+			}
+			$("#sauce").html(htmlStr)
+
+		}
+		
+	</script>
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row justify-content-center align-items-center" style="height:100vh">
+			<div class="col-6">
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th colspan=2>Pizza Shop</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Name</td>
+							<td>
+								<input type="text" id="name" class="form-control" onblur="validate_Name()">
+								<small class="text-danger" id="name_err"></small>
+							</td>
+						</tr>
+						<tr>
+							<td>Pizza Toppings</td>
+							<td>
+								<input type="radio" name="toppings" id="supereme" value="supereme" onchange="generateSauce()"> Supereme <br>
+								<input type="radio" name="toppings" value="veg"  onchange="generateSauce()"> Vegeterian <br>
+								<input type="radio" name="toppings" value="hawaii"  onchange="generateSauce()"> Hawaiian <br>
+							</td>
+						</tr>
+						<tr>
+							<td>Pizza Sauce</td>
+							<td>
+								<select class="form-select" id="sauce">
+								</select>
+								<small id="sauce_err" class="text-danger"></small>
+							</td>
+						</tr>
+						<tr>
+							<td colspan=2>
+								Delivery Instructions
+								<textarea id="text1" class="form-control"></textarea>
+							</td>
+						</tr>
+						<tr>
+							<td colspan=2><button class="btn btn-primary">Save</button></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

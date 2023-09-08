@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        var movie = []
+        function addmovie(){
+            for( var i=0; i<2; i++){
+           var n = $("#Name").val()
+            var price= $("#price").val()
+            var s =$("#seat").val()
+            
+                
+                $("#Add").html("movie deatail-->"+"name--"+n+"/price--"+ price+"/seat--"+s)
+            }
+            
+            var temp={
+
+                Name:n,
+                Price:price,
+                seat:s,
+                }
+                movie.push(temp)
+        
+            
+            var htmlstr = "<table>"
+            for(var i=0; i<movie.length; i++){
+                    htmlstr = htmlstr+
+                    "<tr><td>"+movie[i].Name+"</tr></td>"+
+                    "<tr><td>"+movie[i].price+"</tr></td>"+
+                    "<tr><td>"+movie[i].seat+"</tr></td>"
+                }
+                htmlstr = htmlstr + "</table>"
+            }     
+    </script>
+</head>
+<body>
+    <h1>Movie Deatails</h1>
+    Movie Name:<input type="text" id="Name" >
+    <br>
+    <br>
+    Movie Price:<input type="number" id="price" >
+    <br>
+    <br>
+    Movie seat:<input type="number" id="seat" >
+    <button onclick="addmovie()">movie</button>
+    <span id="Add"></span>
+</body>
+</html>

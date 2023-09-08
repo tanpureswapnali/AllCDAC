@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script type="text/javascript">
+        var friends =  []
+        function userFriend(){
+            var name =prompt("Enter the name of Friend")
+            var temp={
+                Name:name,
+            }
+            friends.push(temp)
+        }
+        userFriend()
+        userFriend()
+        function dispaly_friend(){
+            var htmlstr = "<ol>"
+                for(var i=0; i<friends.length; i++){
+                htmlstr=htmlstr+"<li>"+friends[i].Name+"</li>"
+
+        }
+        htmlstr = htmlstr+"</ol>"
+        console.log(htmlstr)
+    }
+    dispaly_friend()
+        
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

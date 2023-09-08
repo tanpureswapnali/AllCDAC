@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script>
+//$(css_selector).function(argument)
+function add(){
+     var num1=$("#num1").val()
+     var num2=$("#num2").val()
+     var result= Number(num1)+Number(num2)
+     $("#res").html("Result is "+result)
+
+    }
+    //$("#add-btn").click(add)//binding of function
+   
+   </script>
+</head>
+<body>
+    Enter No1<input type="text" id="num1">
+    <br>
+    Enter No2<input type="text" id="num2">
+    <button id="add-btn" onclick="add()">add</button>
+    <span id="res"></span>
+    <script>
+        $("#add-btn").click(add)//binding of function
+   
+    </script>
+</body>
+</html>

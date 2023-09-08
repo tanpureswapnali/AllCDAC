@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+	
+	<hibernate-configuration>
+	    <session-factory>
+	    <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+	    <property name="connection.username">root</property>
+	    <property name="connection.password">Swap@123</property>
+	    <property name="connection.url">jdbc:mysql://localhost/java_ee</property>
+	    <property name="hibernate.show_sql">true</property>
+	    <property name="hibernate.dbcp.initialSize">5</property>
+	    <property name="hibernate.dbcp.minIdle">3</property>
+	    <property name="hibernate.dbcp.maxTotal">25</property>
+	    <property name="hibernate.dbcp.maxIdle">8</property>
+	    <property name="hibernate.hbm2ddl.auto">validate</property>
+	    
+	    <mapping class="org.fi.mvcuserapp.beans.User"/>
+	    <mapping class="org.fi.mvcuserapp.beans.Category"/>
+	    
+	    </session-factory>
+	</hibernate-configuration>
